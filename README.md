@@ -120,6 +120,7 @@ areas for Swift 4 stage 2:
   collection algorithms) and improvements to the ergonomics of
   `Dictionary`.
 
+
 * Foundation improvements: We anticipate proposing some targeted
   improvements to Foundation API to continue the goal of making the
   Cocoa SDK work seamlessly in Swift. Details on the specific goals
